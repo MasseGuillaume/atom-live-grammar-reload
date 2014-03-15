@@ -1,5 +1,6 @@
 {
   "name": "live-editor-reload",
+  "description": "A small utility for developing Atom packages. Automatically reload Atom when you save a file that's part of an Atom package.",
   "version": "0.0.0",
   "author": {
     "name": "Cory Roloff",
