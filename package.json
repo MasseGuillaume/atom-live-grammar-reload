@@ -9,9 +9,9 @@
   "engines": {
     "atom": ">0.39.0"
   },
-  "repository": "https://github.com/coryroloff/live-editor-reload",
+  "repository": "https://github.com/coryroloff/atom-live-editor-reload",
   "license": {
     "name": "MIT",
-    "url": "https://github.com/coryroloff/live-editor-reload/blob/master/LICENSE"
+    "url": "https://github.com/coryroloff/atom-live-editor-reload/blob/master/LICENSE"
   }
 }
