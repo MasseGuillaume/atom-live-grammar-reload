@@ -1,8 +1,7 @@
-# live-editor-reload
+# atom-live-grammar-reload
 
-> A small utility for developing Atom packages. Automatically reload Atom when you save a file that's part of an Atom package.
+![live reloading scala grammar](https://raw.githubusercontent.com/MasseGuillaume/atom-live-grammar-reload/master/example.gif)
+*reloading scala*
 
-**Requirements:**
-
-- Editor must be in dev mode
-- Atom must be listed in package's engines
+usage: 
+```/opt/Atom/atom -d ~/.atom/packages/language-scala/```
