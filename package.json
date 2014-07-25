@@ -1,17 +1,17 @@
 {
-  "name": "live-editor-reload",
-  "description": "A small utility for developing Atom packages. Automatically reload Atom when you save a file that's part of an Atom package.",
+  "name": "atom-live-grammar-reload",
+  "description": "A small utility for developing Atom grammars. Automatically reload affected editors when their grammar changes.",
   "version": "0.1.0",
   "author": {
-    "name": "Cory Roloff",
-    "url": "http://coryroloff.com"
+    "name": "Guillaume Masse",
+    "url": "https://github.com/MasseGuillaume"
   },
   "engines": {
     "atom": ">0.39.0"
   },
-  "repository": "https://github.com/coryroloff/atom-live-editor-reload",
+  "repository": "https://github.com/MasseGuillaume/atom-live-grammar-reload",
   "license": {
     "name": "MIT",
-    "url": "https://github.com/coryroloff/atom-live-editor-reload/blob/master/LICENSE"
+    "url": "https://github.com/MasseGuillaume/atom-live-grammar-reload/blob/master/LICENSE"
   }
 }
