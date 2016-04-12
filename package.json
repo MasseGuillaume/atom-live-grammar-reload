@@ -1,7 +1,7 @@
 {
   "name": "atom-live-grammar-reload",
   "description": "A small utility for developing Atom grammars. Automatically reload affected editors when their grammar changes.",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "author": {
     "name": "Guillaume Masse",
     "url": "https://github.com/MasseGuillaume"
